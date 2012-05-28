@@ -31,18 +31,18 @@
 					slide_counter           :   1,		//Display slide numbers
 					slide_captions          :   1,		//Slide caption (Pull from "title" in slides array)
 					slides 					:  	[		//Slideshow Images
-														{image : 'img/6.jpg', title : 'Write your caption here<span>Donec ante justo, ullamcorper laoreet euismod eu, fringilla </span>'},  
-														{image : 'img/2.jpg', title : 'Each photo has a different caption<span>Mollis in, eu vitae metus, felis mattis pretium tortor donec sit quis</span>'},  
-														{image : 'img/3.jpg', title : 'You can disable the caption<span>Vestibulum lacus magna vivamus vitae nunc nulla</span>'},  
-														{image : 'img/4.jpg', title : 'Change the style of the caption<span>Metus maecenas sem at, suspendisse quam</span>'},  
-														{image : 'img/5.jpg', title : 'Change the position of the caption<span>Erat pede risus vehicula, donec egestas ab erat justo </span>'},  
-														{image : 'img/1.jpg', title : 'Different style and position for each caption<span>Diam pellentesque est quis habitant aenean mauris</span>'},  
-														{image : 'img/7.jpg', title : 'Write your caption here<span>Donec ante justo, ullamcorper laoreet euismod eu, fringilla </span>'},  
-														{image : 'img/8.jpg', title : 'Each photo has a different caption<span>Mollis in, eu vitae metus, felis mattis pretium tortor donec sit quis</span>'},  
-														{image : 'img/9.jpg', title : 'You can disable the caption<span>Donec ante justo, ullamcorper laoreet euismod eu, fringilla </span>'},  
-														{image : 'img/10.jpg', title : 'Change the style of the caption<span>Metus maecenas sem at, suspendisse quam </span>'},  
-														{image : 'img/11.jpg', title : 'Change the position of the caption<span>Diam pellentesque est quis habitant aenean mauris</span>'},  
-														{image : 'img/12.jpg', title : 'Different style and position for each caption<span>Donec ante justo, ullamcorper laoreet euismod eu, fringilla </span>'}
+														{image : 'img/6.jpg', title : 'Follow Your Curiosity<span>I have no special talent. I am only passionately curious </span>'},  
+														{image : 'img/2.jpg', title : 'Perseverance is Priceless<span>Its not that Im so smart; its just that I stay with problems longer</span>'},  
+														{image : 'img/3.jpg', title : 'Focus on the Present<span>Any man who can drive safely while kissing a pretty girl is simply not giving the kiss the attention it deserves</span>'},  
+														{image : 'img/4.jpg', title : 'The Imagination is Powerful<span>Imagination is everything. It is the preview of lifes coming attractions. Imagination is more important than knowledge</span>'},  
+														{image : 'img/5.jpg', title : 'Make Mistakes<span>A person who never made a mistake never tried anything new</span>'},  
+														{image : 'img/1.jpg', title : 'Live in the Moment<span>I never think of the future   it comes soon enough</span>'}, 
+														{image : 'img/7.jpg', title : 'Create Value <span>Strive not to be a success, but rather to be of value</span>'},  
+														{image : 'img/8.jpg', title : 'Dont be repetitive<span>Insanity: doing the same thing over and over again and expecting different results</span>'},  
+														{image : 'img/9.jpg', title : 'Knowledge Comes From Experience<span>Information is not knowledge. The only source of knowledge is experience</span>'},  
+														{image : 'img/10.jpg', title : 'Learn the Rules and Then Play Better<span>You have to learn the rules of the game. And then you have to play better than anyone else</span>'},  
+														{image : 'img/11.jpg', title : 'About Design<span>Design is not just what it looks like and feels like. Design is how it works</span>'},  
+														{image : 'img/12.jpg', title : 'A vision<span>I think we re having fun. I think our customers really like our products. And we re always trying to do better</span>'}
 												]
 												
 				}); 
