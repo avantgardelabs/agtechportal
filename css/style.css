@@ -495,6 +495,9 @@ color:#666666;
 text-shadow:1px 1px #ffffff;
 overflow:visible;
 }
+#boton{
+margin-top: 38px;
+}
 p strong{
 color:#1e1e1e;
 }
@@ -1021,7 +1024,7 @@ display:inline;
 float:left;
 }
 .gs_6{
-width:430px;
+width:100%;
 display:inline;
 float:left;
 }
@@ -1036,12 +1039,12 @@ display:inline;
 float:left;
 }
 .gs_3{
-width:199px;
+width:273px;
 display:inline;
 float:left;
 }
 .gs_2{
-width:122px;
+width:274px;
 display:inline;
 float:left;
 }
